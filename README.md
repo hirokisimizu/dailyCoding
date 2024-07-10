@@ -1,1 +1,1 @@
-# everyDayCoding
+# dailyCoding
